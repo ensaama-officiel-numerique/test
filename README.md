@@ -7,8 +7,8 @@
 
 # Localisation GPS (trouver votre position GPS)
 * 2 programmes dans le répertoire 3_AR_geo
-- check-gps.html
-- myposition.html
+- [check-gps](./check-gps.html)
+- [myposition](myposition.html)
 * quelques urls
 [1](https://www.coordonnees-gps.fr/ma-position)
 [2](https://www.latlong.net/)
@@ -18,8 +18,13 @@
 [6](https://jsfiddle.net/fbqa8fuh/7/)
 * articles
 - [geolocalisation HTML5](https://www.alsacreations.com/tuto/lire/926-geolocalisation-geolocation-html5.html)
-- [precision](https://naviguer.monsite-orange.fr/page-563a7dd767b23.html)
-- [précision](https://www.tuto-carto.fr/longitude-latitude-precision/)
+
+* tests : 
+- [osm-my-position](./osm-my-position/index.html)
+- [0_base](./geo_0_base.html)
+- [1_precision](./geo_1_precision.html)
+- [2_chackgps](./geo_2_checkgps.html)
+
 
 # components
 camera : [rotation-reader](https://aframe.io/docs/0.9.0/components/camera.html#reading-position-or-rotation-of-the-camera)
