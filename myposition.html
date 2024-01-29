@@ -23,8 +23,8 @@
       var crd = pos.coords;
 
       var info = document.querySelector("#info");
-      info.innerHTML = "latitude : "+crd.latitude.toFixed(5);
-      info.innerHTML += "<br>longitude : "+crd.longitude.toFixed(5);
+      info.innerHTML = "latitude : "+crd.latitude.toFixed(6);
+      info.innerHTML += "<br>longitude : "+crd.longitude.toFixed(6);
       info.innerHTML += "<br>précision : "+crd.accuracy+"m";
 
       console.log('Votre position actuelle est :');
