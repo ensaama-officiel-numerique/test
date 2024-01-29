@@ -9,7 +9,9 @@
 
 ### 2 programmes dans le répertoire 3_AR_geo
 * [check-gps](./check-gps.html)
-* [myposition](myposition.html)
+* [myposition](./myposition.html)
+
+* [cequi estaffiche](./osm-my-position/index.html)
 
 ### quelques urls
 [1](https://www.coordonnees-gps.fr/ma-position)
