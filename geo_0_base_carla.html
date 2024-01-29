@@ -36,19 +36,18 @@
 
         <!-- ATTENTION : le résultat n'est pas toujours identique car la localisation GPS peut varier -->
 
-        <a-box position='0 2.5 0' material='color: red;'
-               scale="0.5 0.5 0.5" rotation="45 45 45"
+        <a-box material='color: red;'
+               scale="0.5 0.5 0.5"
                gps-entity-place="latitude: 48.8334090; longitude: 2.2952831;">
         </a-box>
 
-        <a-text value="Hello, World !"
-                scale="2 2 2" position="0 2 0"
+        <a-text value="Hello, Carla !"
+                scale="2 2 2" 
                 gps-entity-place="latitude: 48.8334090; longitude: 2.2952831;">
         </a-text>
         <!-- position : seul le paramètre en y est valide = altitude -->
 
-        <a-sphere position="0 1.5 0"
-                  material="color: green;"
+        <a-sphere material="color: green;"
                   scale="0.1 0.1 0.1"
                   gps-entity-place="latitude: 48.8334090; longitude: 2.2952831;">
         </a-shere>
