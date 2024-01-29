@@ -1,17 +1,20 @@
 # AR geolocalisation (GPS)
-[article pour commencer](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564)
-[examples](https://github.com/AR-js-org/AR.js/tree/master/aframe/examples/location-based)
+* [ar.js doc](https://ar-js-org.github.io/AR.js-Docs/)
 
-[tuto : location based app](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564)
-[tuto : peakfinder app](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564)
+* [article pour commencer](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564)
+* [examples](https://github.com/AR-js-org/AR.js/tree/master/aframe/examples/location-based)
+
+* [tuto : location based app](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564)
+* [tuto : peakfinder app](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564)
+
+## carla
+* [0_base_carla](./geo_0_base_carla.html)
 
 ## Localisation GPS (trouver votre position GPS)
 
 ### 2 programmes dans le répertoire 3_AR_geo
 * [check-gps](./check-gps.html)
 * [myposition](./myposition.html)
-
-* [cequi estaffiche](./osm-my-position/index.html)
 
 ### quelques urls
 [1](https://www.coordonnees-gps.fr/ma-position)
