@@ -19,7 +19,9 @@
 ### calcul précision
 * [precision 1°](https://fr.wikipedia.org/wiki/Coordonn%C3%A9es_g%C3%A9ographiques)
 * [precision](https://www.lexilogos.com/calcul_distances.htm)
+  
 1° latitude (partout) = 111195m  1° longitude (paris) = 73154m
+
 Latitude : 0.0001° = 11.1m | 0.00001° = 1,11m / Longitude : 0.0001° = 7,3m | 0.00001° = 0.73m
 
 
