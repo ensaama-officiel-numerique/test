@@ -11,6 +11,7 @@
 * [0_base_carla2](./geo_0_base_carla.html)
 * [ref_arjs](./ref_arjs.html)
 * [basic sample](./basid_sample.html)
+* [hikar sample](./hikar_sample.html)
 
 ## location based
 ### ar.js online doc
