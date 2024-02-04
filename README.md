@@ -10,9 +10,20 @@
 ## carla
 * [0_base_carla2](./geo_0_base_carla.html)
 * [ref_arjs](./ref_arjs.html)
+* [basic sample](./basid_sample.html)
+
+## location based
+### ar.js online doc
+* [location based page](https://ar-js-org.github.io/AR.js-Docs/location-based-aframe/)
+* [basic example](https://ar-js-org.github.io/AR.js-Docs/location-based-aframe/)
+### calcul précision
+* [precision 1°](https://fr.wikipedia.org/wiki/Coordonn%C3%A9es_g%C3%A9ographiques)
+* [precision](https://www.lexilogos.com/calcul_distances.htm)
+1° latitude (partout) = 111195m  1° longitude (paris) = 73154m
+Latitude : 0.0001° = 11.1m | 0.00001° = 1,11m / Longitude : 0.0001° = 7,3m | 0.00001° = 0.73m
+
 
 ## Localisation GPS (trouver votre position GPS)
-
 ### 2 programmes dans le répertoire 3_AR_geo
 * [check-gps](./check-gps.html)
 * [myposition](./myposition.html)
